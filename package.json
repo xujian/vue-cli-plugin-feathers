@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-feathers",
+  "version": "1.0.5",
+  "description": "Vue-cli-3 plugin: feathersjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@feathersjs/authentication-client": "^1.0.2",
+    "@feathersjs/feathers": "^3.1.0",
+    "@feathersjs/socketio-client": "^1.0.2",
+    "engine.io-client": "^3.1.4"
+  },
+  "keywords": [
+    "api",
+    "vue-cli-plugin",
+    "vue",
+    "axios",
+    "vue",
+    "plugin"
+    "websocket",
+    "socket.io",
+    "feathersjs"
+  ],
+  "author": "Mike Jian Xu",
+  "license": "MIT"
+}
