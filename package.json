@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-feathers",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "Vue-cli-3 plugin: feathersjs",
   "main": "index.js",
   "scripts": {},
