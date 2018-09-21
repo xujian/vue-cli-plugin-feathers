@@ -6,7 +6,8 @@ module.exports = (api, options, rootOptions) => {
   
     api.render(
       {
-        "./src/plugins/feathers/index.js": "./templates/plugins/feathers/index.js"
+        "./src/plugins/feathers/index.js": "./templates/plugins/feathers/index.js",
+        "./src/plugins/feathers/config.js": "./templates/plugins/feathers/config.js"
       },
       options
     );

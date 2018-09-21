@@ -6,7 +6,7 @@ import io from 'socket.io-client'
 
 function make (config) {
   config.server = config.server || 'http://localhost'
-  const socket = io(config.server {
+  const socket = io(config.server, {
     transports: ['websocket']
   })
 
