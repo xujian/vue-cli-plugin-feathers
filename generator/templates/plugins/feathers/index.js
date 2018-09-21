@@ -4,5 +4,5 @@ import config from './config'
 let $feathers = feathers.make(config)
 
 export default ({app, router, Vue}) => {
-  Vue.prototype.$feathers = feathers
+  Vue.prototype.$feathers = $feathers
 }
