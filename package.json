@@ -16,7 +16,7 @@
     "vue",
     "axios",
     "vue",
-    "plugin"
+    "plugin",
     "websocket",
     "socket.io",
     "feathersjs"
